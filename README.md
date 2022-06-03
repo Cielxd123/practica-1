@@ -3,11 +3,5 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-### Nota 2
-Este mensaje fue editado desde GitHub!!!
-
-### Nota 3
-Una serie de coasas inesperadas que no tienen mayor misterio.
+## Nota
+Estos cambios son nuevos...
